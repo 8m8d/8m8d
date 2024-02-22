@@ -3,6 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=5886e3&height=150&section=header&text=8M8D&fontColor=6c717d&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
+안녕하세요 현재 공부중인 백엔드 개발자 입니다
+<br>
+📧 Email.
+memory_0501@naver.com
+<br>
+🍀 **Naver Blog**
+[**https://blog.naver.com/memory_0501**](https://blog.naver.com/memory_0501)
+<br>
+PortFolio
+https://handy-venus-38f.notion.site/f464d93decbf4ae39f6718cde08329b2?pvs=25
+
 <br><br><br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
