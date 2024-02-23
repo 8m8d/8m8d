@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=5886e3&height=150&section=header&text=8M8D&fontColor=6c717d&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
-안녕하세요 현재 공부중인 백엔드 개발자 입니다
+안녕하세요 현재 공부중인 백엔드 개발자 윤성환 입니다
+<br>
+<br>
 <br>
 📧 Email.
 memory_0501@naver.com
@@ -41,8 +43,6 @@ https://handy-venus-38f.notion.site/f464d93decbf4ae39f6718cde08329b2?pvs=25
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
