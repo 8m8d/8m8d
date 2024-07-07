@@ -14,8 +14,7 @@ memory_0501@naver.com
 [**https://blog.naver.com/memory_0501**](https://blog.naver.com/memory_0501)
 <br>
 PortFolio
-hlorinated-puma-afa.notion.site/93f8be7a7d9a4220a9e4f4b5ab7d8ce8
-
+https://chlorinated-puma-afa.notion.site/93f8be7a7d9a4220a9e4f4b5ab7d8ce8
 <br><br><br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
